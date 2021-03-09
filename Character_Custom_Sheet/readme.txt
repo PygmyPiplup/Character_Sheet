@@ -1,0 +1,1 @@
+When you first bring in the project, make sure you add the database also.

@@ -1,0 +1,326 @@
+Database:
+	Tables:
+		Main Character Info:
+			Unique ID:
+			Name:
+			Level:
+			Class:
+			Deity:
+			Homeland:
+			Race:
+			Size:
+			Gender:
+			Age:
+			Height:
+			Weight:
+			Hair:
+			Eyes:
+			Speed:
+			HP:
+			Initiative:
+		Character Stats:
+			Unique ID:
+			STR:
+			   STR Modifier
+			DEX
+			   DEX Modifier
+			CON
+			   CON Modifier
+			INT
+			   INT Modifier
+			WIS
+			    WIS Modifier
+			CHA
+			    CHA Modifier
+			FORT
+			REFLEX
+			WILL
+			CMD
+			CMB
+			BAB
+			AC
+			FLAT FOOTED
+			TOUCH
+			SPELL RESITANCE
+		Character Gear:
+			Unique ID:
+			Weapon 1:
+				Damage:
+				Attack Bonus:
+				Type:
+				Ammuntion:
+				Range:
+				Critical:
+			Weapon 2:
+				Damage:
+				Attack Bonus:
+				Type:
+				Ammuntion:
+				Range:
+				Critical:
+			Weapon 3:
+				Damage:
+				Attack Bonus:
+				Type:
+				Ammuntion:
+				Range:
+				Critical:
+			Weapon 4:
+				Damage:
+				Attack Bonus:
+				Type:
+				Ammuntion:
+				Range:
+				Critical:
+			Weapon 5:
+				Damage:
+				Attack Bonus:
+				Type:
+				Ammuntion:
+				Range:
+				Critical:
+			Weapon 6:
+				Damage:
+				Attack Bonus:
+				Type:
+				Ammuntion:
+				Range:
+				Critical:
+			Weapon 7:
+				Damage:
+				Attack Bonus:
+				Type:
+				Ammuntion:
+				Range:
+				Critical:
+		Skills Table:
+			Unique ID:
+			Acrobatics:
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Appraise
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Bluff
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Climb
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Craft1
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Craft2
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Craft3
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Diplomacy
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Disable Device
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Disguise
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Escape Artist
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Fly
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Handle Animal
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Heal
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Intimidate
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Knowledge (Arcana)
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Knowledge (Dungenoneering)
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Knowledge (Geography)
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Knowledge (History)
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Knowledge(Local)
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Knowledge(Nature)
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Knowledge(Nobility)
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Knowledge(Planes)
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Knowledge(Religion)
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Linguistics
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Perception
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Perform
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Perform2
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Profession
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Profession2
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Ride
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Sense Motive
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Sleight of Hand
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Spellcraft
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Stealth
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Survival
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Swim
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+			Use Magic Device
+				Total:
+				Ability Modifier
+				Ranks
+				Misc Mod
+		Feats:
+			Unique ID:
+			Feat1
+			Feat2
+			Feat3
+			Feat4
+			Feat5
+			Feat6
+			Feat7
+			Feat8
+			Feat9
+			Feat10
+			Feat11
+			Feat12
+			Feat13
+			Feat14
+			Feat15
+			Feat16
+			Feat17
+			Feat18
+			Feat19
+			Feat20
+		Special Features:
+			SPFE1
+			SPFE2
+			SPFE3
+			SPFE4
+			SPFE5
+			SPFE6
+			SPFE7
+			SPFE8
+			SPFE9
+			SPFE10
+			SPFE11
+			SPFE12
+			SPFE13
+			SPFE14
+			SPFE15
+			Languages

@@ -12,5 +12,6 @@ namespace Character_Custom_Sheet.Data
             : base(options)
         {
         }
+
     }
 }
