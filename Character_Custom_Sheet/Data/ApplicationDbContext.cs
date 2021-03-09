@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Character_Sheet.Data
+namespace Character_Custom_Sheet.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {

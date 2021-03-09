@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore.Migrations;
 using System;
 
-namespace Character_Sheet.Data.Migrations
+namespace Character_Custom_Sheet.Data.Migrations
 {
     public partial class CreateIdentitySchema : Migration
     {

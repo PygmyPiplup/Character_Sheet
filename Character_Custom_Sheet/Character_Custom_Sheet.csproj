@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <UserSecretsId>aspnet-Character_Sheet-3D1971E8-A63B-4C4B-AC78-811EBE6DD7D9</UserSecretsId>
+    <UserSecretsId>aspnet-Character_Custom_Sheet-AA2DE4DF-6E70-43E5-9853-3598B3F2DA74</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
