@@ -1,4 +1,4 @@
-using Character_Sheet.Data;
+using Character_Custom_Sheet.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -13,7 +13,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Character_Sheet
+namespace Character_Custom_Sheet
 {
     public class Startup
     {

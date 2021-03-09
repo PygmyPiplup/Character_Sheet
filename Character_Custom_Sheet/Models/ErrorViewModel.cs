@@ -1,6 +1,6 @@
 using System;
 
-namespace Character_Sheet.Models
+namespace Character_Custom_Sheet.Models
 {
     public class ErrorViewModel
     {
